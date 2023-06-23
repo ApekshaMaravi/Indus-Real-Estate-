@@ -1,0 +1,20 @@
+MODEL OUTPUTS
+
+1. Decision Tree
+
+    Mean: 4.398091651373514
+    Standard deviation: 1.166181834029773
+    
+2. Linear Regression
+
+    Mean: 5.0033223925893475
+    Standard deviation: 0.9215070145043346
+    
+3. Random Forest Regression 
+
+    Mean: 3.325761628015305
+    Standard deviation: 0.7102824077815206
+    
+    
+  Out of three models, random forest regression is the best model among those three. Also, while testing we got the root mean squared error as 3.014 which is much more better than the other two models.
+   test data rmse = 3.014596142431152
